@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/unified-shopping-platform-313242-313252/shopping_app_database"
+}
